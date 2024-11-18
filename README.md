@@ -7,6 +7,7 @@ Especialidades: React | React Native | Angular | Ionic | Cypress | Jest | TypeSc
 Tenho experiência em desenvolvimento frontend e trabalhei com tecnologias como Angular, ReactJS, Ionic, JavaScript, TypeScript, e CSS. Nos últimos anos, participei de projetos de grande impacto na área da saúde e tecnologia, atuando no desenvolvimento de soluções inovadoras e na criação de novas funcionalidades.
 
 * 🌍  Atualmente estou no Brasil
+* 🌐  Inglês intermediário
 * ✉️  Você pode entrar em contato comigo em [wesleyf.santos92@hotmail.com](mailto:wesleyf.santos92@hotmail.com)
 
 ### Skills
