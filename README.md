@@ -1,4 +1,4 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Wesley Fracanbábia dos Santos
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Wesley Fracanábia dos Santos
 =====================================================================================================================================================
 
 Especialidades: React | React Native | Angular | Ionic | Cypress | Jest | TypeScript | CSS | HTML
